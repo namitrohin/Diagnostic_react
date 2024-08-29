@@ -7,7 +7,6 @@ import DateFnsUtils from "@date-io/date-fns";
 import MainLayout from "./layouts/layout";
 import SwitchApp from "./pages";
 import { MuiPickersUtilsProvider } from "@material-ui/pickers";
-
 const theme = createMuiTheme({
   palette: {
     primary: {
